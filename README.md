@@ -1,3 +1,7 @@
+Fork of Suckless dmenu with my personal config and patches.
+
+Original Readme:
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
